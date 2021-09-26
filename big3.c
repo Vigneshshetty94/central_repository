@@ -2,11 +2,11 @@
 biggest3()
 {
     int num1, num2, num3;
-    printf("\n\n Enter the number1 = ");
+    printf("\n\n Enter the number 1 = ");
     scanf("%d", &num1);
-    printf("\n Enter the number2 = ");
+    printf("\n Enter the number 2 = ");
     scanf("%d", &num2);
-    printf("\n Enter the number3 = ");
+    printf("\n Enter the number 3 = ");
     scanf("%d", &num3);
     if (num1 > num2)
     {
